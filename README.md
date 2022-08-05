@@ -1,4 +1,5 @@
 Link: https://dsmovie-matheusprojeto.netlify.app
+Deploy no Heroku e Netlify.
 
 É uma aplicação web para avaliar filmes.
 
@@ -18,6 +19,5 @@ As ferramentas utilizadas:
 · Conseguir terminar a semana spring react foi muito gratificante e além de ganhar um portfólio para meu currículo eu vi na prática como se constrói um projeto e adquiri muito conhecimento.
 
 · Se por algum motivo a pagina não carregar os filmes é porque o serviço de hospedagem Heroku que foi utilizado no projeto, na sua versão gratuita quando não há atividade ele hiberna o projeto.
-· Por isso vou deixar imagens do site:
-![index](https://user-images.githubusercontent.com/85638992/159301648-49ece900-342c-4043-8943-74d9db7a5f8e.png)
-![form](https://user-images.githubusercontent.com/85638992/159301702-cfc37c13-cd18-4736-8084-41d1caaea7a3.png)
+
+[Untitled.webm](https://user-images.githubusercontent.com/85638992/182990201-5f28267e-74b4-4436-a118-770a839bd994.webm)
